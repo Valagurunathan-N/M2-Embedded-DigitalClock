@@ -5,3 +5,5 @@
 [![CodeQuality](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/CodeQuality.yml)
 
 [![compileLinux](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/compileLinux.yml/badge.svg)](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/compileLinux.yml)
+
+[![gitinspector](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/gitinspector.yml)
