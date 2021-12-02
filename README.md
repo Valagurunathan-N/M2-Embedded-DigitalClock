@@ -4,3 +4,6 @@
 
 
 [![CI](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/codequality.yml/badge.svg)](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/codequality.yml)
+
+
+[![CI](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/compile.yml/badge.svg)](https://github.com/Valagurunathan-N/M2-Embedded-HeatControlSystem/actions/workflows/compile.yml)
